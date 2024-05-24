@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gaming\\source\\repos\\Books\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{050E7102-09E1-44E1-8D88-962CFCB7287F}|Data Acess Layer\\DataAccessLayer.csproj|c:\\users\\gaming\\source\\repos\\books\\data acess layer\\services\\booksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{050E7102-09E1-44E1-8D88-962CFCB7287F}|Data Acess Layer\\DataAccessLayer.csproj|solutionrelative:data acess layer\\services\\booksservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|c:\\users\\gaming\\source\\repos\\books\\books\\books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|solutionrelative:books\\books.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{050E7102-09E1-44E1-8D88-962CFCB7287F}|Data Acess Layer\\DataAccessLayer.csproj|c:\\users\\gaming\\source\\repos\\books\\data acess layer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{050E7102-09E1-44E1-8D88-962CFCB7287F}|Data Acess Layer\\DataAccessLayer.csproj|solutionrelative:data acess layer\\dataaccesslayer.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|c:\\users\\gaming\\source\\repos\\books\\books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|solutionrelative:books\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|c:\\users\\gaming\\source\\repos\\books\\books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|solutionrelative:books\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|c:\\users\\gaming\\source\\repos\\books\\books\\books.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|solutionrelative:books\\books.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|c:\\users\\gaming\\source\\repos\\books\\books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{73F43A04-F85F-4562-87DE-3938E3D29929}|Books\\Books.csproj|solutionrelative:books\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksServices.cs",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Data Acess Layer\\Services\\BooksServices.cs",
+              "RelativeDocumentMoniker": "Data Acess Layer\\Services\\BooksServices.cs",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Data Acess Layer\\Services\\BooksServices.cs",
+              "RelativeToolTip": "Data Acess Layer\\Services\\BooksServices.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-24T11:00:02.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccessLayer.csproj",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Data Acess Layer\\DataAccessLayer.csproj",
+              "RelativeDocumentMoniker": "Data Acess Layer\\DataAccessLayer.csproj",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Data Acess Layer\\DataAccessLayer.csproj",
+              "RelativeToolTip": "Data Acess Layer\\DataAccessLayer.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-24T06:27:23.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\appsettings.json",
+              "RelativeDocumentMoniker": "Books\\appsettings.json",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\appsettings.json",
+              "RelativeToolTip": "Books\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-23T18:58:38.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Books",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Books.csproj",
+              "RelativeDocumentMoniker": "Books\\Books.csproj",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Books.csproj",
+              "RelativeToolTip": "Books\\Books.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T15:40:05.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeDocumentMoniker": "Books\\Program.cs",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Program.cs",
+              "RelativeToolTip": "Books\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAwBgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:59:38.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "Books\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "Books\\Controllers\\BooksController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-23T14:55:26.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Books.csproj",
+              "DocumentMoniker": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Books.csproj",
+              "RelativeDocumentMoniker": "Books\\Books.csproj",
+              "ToolTip": "C:\\Users\\gaming\\source\\repos\\Books\\Books\\Books.csproj",
+              "RelativeToolTip": "Books\\Books.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-23T14:41:17.753Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

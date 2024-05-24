@@ -1,0 +1,15 @@
+C:\Users\gaming\source\repos\Books\Books.Services\bin\Debug\net8.0\Books.Services.deps.json
+C:\Users\gaming\source\repos\Books\Books.Services\bin\Debug\net8.0\Books.Services.dll
+C:\Users\gaming\source\repos\Books\Books.Services\bin\Debug\net8.0\Books.Services.pdb
+C:\Users\gaming\source\repos\Books\Books.Services\bin\Debug\net8.0\Books.Models.dll
+C:\Users\gaming\source\repos\Books\Books.Services\bin\Debug\net8.0\Books.Models.pdb
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.csproj.AssemblyReference.cache
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfoInputs.cache
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.AssemblyInfo.cs
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.csproj.CoreCompileInputs.cache
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Se.FAF4FFE3.Up2Date
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.dll
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\refint\Books.Services.dll
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\Books.Services.pdb
+C:\Users\gaming\source\repos\Books\Books.Services\obj\Debug\net8.0\ref\Books.Services.dll

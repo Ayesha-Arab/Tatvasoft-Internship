@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Books.Services/1.0.0": {
+        "dependencies": {
+          "Books.Models": "1.0.0"
+        },
+        "runtime": {
+          "Books.Services.dll": {}
+        }
+      },
+      "Books.Models/1.0.0": {
+        "runtime": {
+          "Books.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Books.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Books.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
